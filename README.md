@@ -1,9 +1,8 @@
 
-##OPSC POE Project
-
+## OPSC POE Project
 > [open this webpage](https://wiehan007.github.io/ReadmeWebpage/)
 
-##Team Members
+## Team Members
 * Wiehan Smalberger
 * Lana Jacobs
 * Ikraam Kader
